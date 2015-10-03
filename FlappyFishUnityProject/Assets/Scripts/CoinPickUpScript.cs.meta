@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aefe715d577b5424b972d694f7a08808
+timeCreated: 1440270644
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - coinParticleSystemPrefab: {instanceID: 0}
+  - accelerationParticleSystemPrefab: {instanceID: 0}
+  - coinSoundPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

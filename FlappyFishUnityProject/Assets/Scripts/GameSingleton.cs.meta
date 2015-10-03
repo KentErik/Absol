@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6680b0e73d435fd44aa2b64d47cbd684
+timeCreated: 1440892720
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GameOverImagePrefab: {instanceID: 0}
+  - accelerationParticleSystemPrefab: {fileID: 176044, guid: 835291c36088e954d93ec63f64b25ba8,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
